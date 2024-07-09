@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ioc_dentist": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7114",
+      "launchBrowser": false
+    }
+  }
+}
